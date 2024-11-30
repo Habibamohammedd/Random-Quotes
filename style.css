@@ -1,0 +1,38 @@
+body
+{
+    background-image: linear-gradient(rgba(0,0,0,0.7),rgba(0,0,0,0.7)), url(BOOKS.jpg);
+}
+
+.quoteform 
+{ 
+text-align: center;
+margin: 170px 0px;
+}
+
+h1 
+{
+ color: rgb(200, 159, 105);
+font-size: 100px;
+font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+
+}
+
+p
+{
+color: rgb(221, 184, 135);;
+font-size: 35px;
+}
+
+button
+ {
+    width: 250px;
+    height: 60px;
+    border-radius: 4%;
+    font-size: 21px; 
+   background-color: rgb(231, 171, 123);
+   color: white;
+}
+
+button:hover {
+    background-color: rgb(167, 128, 95);;
+}
