@@ -23,7 +23,7 @@
 - **HTML5**: Structure of the application.  
 - **CSS3**: Styling and responsive design.  
 - **JavaScript**: Core logic for fetching and displaying random quotes.  
-- **Netlify**: Hosting and deployment for the live website.  
+ 
 
 ## Live Demo  
 
